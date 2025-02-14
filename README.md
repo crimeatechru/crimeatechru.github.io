@@ -6,5 +6,6 @@
 
 ## Чаты
 
-* [Основной чат](https://t.me/crimeatech)
+* [Основной канал](https://t.me/crimeatech)
+* [Основной чат](https://t.me/crimeatechru)
 * [Чат для обсуждения вакансий и резюме](https://t.me/crimeatechru_vacancies)
