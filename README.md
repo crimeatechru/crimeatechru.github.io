@@ -2,7 +2,9 @@
 
 Добро пожаловать в IT-сообщество Крыма и Севастополя.
 
-[Руководство по приятному общению](code-of-conduct/README.md)
+* [Руководство по приятному общению](code-of-conduct/README.md)
 
-[https://t.me/crimeatech](https://t.me/crimeatech)
-[https://t.me/crimeatechru_vacancies](https://t.me/crimeatechru_vacancies)
+## Чаты
+
+* [Основной чат](https://t.me/crimeatech)
+* [Чат для обсуждения вакансий и резюме](https://t.me/crimeatechru_vacancies)
